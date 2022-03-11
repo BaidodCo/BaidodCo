@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/khaledbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="khaledbd" height="30" width="40" /></a>
+<a href="https://dev.to/khaledbd" target="blank"><img align="center" src="https://i.imgur.com/8OI9UPO.png" alt="khaledbd" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/RUaFDgQ6Fw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/RUaFDgQ6Fw" height="30" width="40" /></a>
 </p>
 
