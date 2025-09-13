@@ -1,13 +1,11 @@
-# Tf Is BaidodCo 🤔
+# What is BaidodCo 🤔
 <strong>💪 A Programing Team Thats Interested In All Types Of Programing Built By : @Khaledbd.</strong>
 <p align="left"> 
 
 # More Info 😊
 - <strong> 🤨 currently working on [BaidodGo](https://www.baidodgo.tk)</strong> 
 
-- <strong> 🌱 currently learning **Java, More**</strong> 
-
-- <strong> 🐋 Partner [Creators](https://discord.gg/c-r)</strong> 
+- <strong> 🌱 currently learning **Java, More**</strong>  
 
 - <strong> 🤝 Interested In [Programing](https://discord.gg/RUaFDgQ6Fw)</strong> 
 
