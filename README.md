@@ -7,7 +7,7 @@ Built with passion by [@Khaledbd]()
 ### 🔍 Discovery
 * **Current Project:** Working on [BaidodGo](https://www.baidodgo.tk)
 * **Learning Path:** Mastering **Java** and advanced backend architectures.
-* **Community:** Join our [Discord Server](https://discord.gg/RUaFDgQ6Fw) to collaborate.
+* **Community:** Join our [Discord Server](https://discord.gg/Hcsxv4WnM) to collaborate.
 * **Contact:** [Email us](mailto:baidodgo@gmail.com)
 
 ---
