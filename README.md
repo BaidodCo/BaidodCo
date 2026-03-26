@@ -24,18 +24,6 @@ Built with passion by [@Khaledbd]()
 
 ---
 
-### 📊 Performance & Recognition
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Khaledbd&theme=radical" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khaledbd&show_icons=true&theme=radical" alt="Stats Card" />
-</p>
-
----
-
 ### 🤝 Connect with Us
 <p align="left">
 <a href="https://discord.gg/Hcsxv4WnM" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30"/></a>
