@@ -38,6 +38,5 @@ Built with passion by [@Khaledbd]()
 
 ### 🤝 Connect with Us
 <p align="left">
-<a href="https://github.com/BaidodCo" target="blank"><img src="https://i.imgur.com/8OI9UPO.png" alt="Github" height="30"/></a>
 <a href="https://discord.gg/Hcsxv4WnM" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30"/></a>
 </p>
